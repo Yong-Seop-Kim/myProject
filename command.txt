@@ -1,0 +1,6 @@
+ter len 0
+show version
+show arp
+show ip int br
+show int status
+show ip route
